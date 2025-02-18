@@ -32,6 +32,18 @@
 $ npm install
 ```
 
+```
+run Migration
+
+ - npm run migration:run
+```
+
+```
+run Seeder
+
+ - npm run seed:run
+```
+
 ## Compile and run the project
 
 ```bash
